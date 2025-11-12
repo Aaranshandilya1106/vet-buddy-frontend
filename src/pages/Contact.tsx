@@ -66,7 +66,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Email Us</h3>
-                  <p className="text-sm text-muted-foreground">support@virtualvet.com</p>
+                  <p className="text-sm text-muted-foreground">aaran.983@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -78,7 +78,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Call Us</h3>
-                  <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                  <p className="text-sm text-muted-foreground">+91 9012190179</p>
                 </div>
               </div>
             </div>
@@ -91,8 +91,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold text-foreground mb-1">Visit Us</h3>
                   <p className="text-sm text-muted-foreground">
-                    123 Pet Care Lane<br />
-                    San Francisco, CA 94102
+                    Manipal University Jaipur
                   </p>
                 </div>
               </div>
