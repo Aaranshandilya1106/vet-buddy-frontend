@@ -110,7 +110,7 @@ const About = () => {
           <h2 className="text-2xl font-bold text-foreground mb-4">Developed By</h2>
           <p className="text-xl text-primary font-semibold mb-2">Aaran Shandilya</p>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            This project was created as a comprehensive frontend solution to help pet owners 
+            This project was created as a comprehensive solution to help pet owners 
             access veterinary guidance and connect with professional care. Built with modern 
             web technologies and a passion for animal welfare.
           </p>

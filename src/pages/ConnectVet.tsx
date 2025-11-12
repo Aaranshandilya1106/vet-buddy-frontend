@@ -43,6 +43,9 @@ const ConnectVet = () => {
               <div className="p-6">
                 <h3 className="text-xl font-bold text-foreground mb-2">{vet.name}</h3>
                 <p className="text-primary font-medium mb-4">{vet.specialization}</p>
+                {vet.clinic && (
+                  <p className="text-sm text-muted-foreground font-medium mb-3">{vet.clinic}</p>
+                )}
 
                 <div className="space-y-2 mb-4">
                   <div className="flex items-center gap-2 text-sm text-muted-foreground">
